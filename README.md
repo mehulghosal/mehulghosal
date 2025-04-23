@@ -1,7 +1,7 @@
 ## Hiya 👋
 
 ## My name is Mehul Ghosal, and I am a graduate student at the American Museum of Natural History, where I am pursuing my Master's in Teaching
-### I graduate in August 2025 as a certified teacher in NYC for 7th-12th grade Earth & Space Science. 
+## I graduate in August 2025 as a certified teacher in NYC for 7th-12th grade Earth & Space Science. 
 
 ### On this page, you will find code I have written for various personal passion projects, astrophysical research projects, and for classes. 
 ### I am excited to blend my background in science and programming with my teaching in the classroom. I love utilizing technology for education and empowering students to reach further. 
